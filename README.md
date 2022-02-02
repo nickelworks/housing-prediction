@@ -10,6 +10,4 @@ Introduction
 
 Conclusion:
 
-Presentation Link
-
 [Presentation Link](https://docs.google.com/presentation/d/e/2PACX-1vTwgx46PhYLmv9CE4WLe6vR455BjeoW19-jO4MOVxYVuZaOJlLhFfgMfChJHitvr4oYjGdSrWOjLH44/pub?start=false&loop=false&delayms=3000&slide=id.g104edfb523a_0_270)
