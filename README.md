@@ -1,8 +1,9 @@
 
-Introduction
+Introduction:
 - Defining Problem and Business Objective 
 - Understanding Data Sources 
 
+Workflow:
 1. Data Preprocessing 
 2. EDA 
 3. Feature Engineering 
