@@ -8,7 +8,7 @@
 ### Workflow:
 #### 1. EDA
 #### 2. Data Preprocessing & Cleaning
-    - simple linear regression* 
+    - join various datasets and output processes data in modular way (via Google GCP) 
     - multiple linear regression with penalization 
     - tree based methods*
     
