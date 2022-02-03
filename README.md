@@ -1,15 +1,15 @@
 
-#### Introduction:
+### Introduction:
 - **Business Objective**: train machine learning model to predict housing prices based on historical transactions, and demographic/economic data. 
 
 - **Data Sources**: Ames Housing Price dataset, Ames Real Estate dataset, nearby businesses from Google Maps API, school district data scraped via Selenium
 
 
-#### Workflow:
-1. EDA
-2. Data Preprocessing & Cleaning
-3. Feature Engineering 
-4. Model Selection & Evaluation
+### Workflow:
+#### 1. EDA
+#### 2. Data Preprocessing & Cleaning
+#### 3. Feature Engineering 
+#### 4. Model Selection & Evaluation
 
     - *simple linear regression* 
     - *multiple linear regression with penalization* 
