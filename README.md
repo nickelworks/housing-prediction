@@ -1,13 +1,14 @@
 
 Introduction:
-- Defining Problem and Business Objective 
+- Defining Problem and Business Objective: train machine learning model to predict housing prices based on historical transactions, and demographic/economic data. 
+
 - Understanding Data Sources 
 
 Workflow:
-1. Data Preprocessing 
-2. EDA 
+1. EDA 
+2. Data Preprocessing & Cleaning
 3. Feature Engineering 
-4. Model Selection, Training, and Evaluation
+4. Model Selection and Evaluation
 
 Conclusion:
 
