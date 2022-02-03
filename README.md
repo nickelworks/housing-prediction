@@ -12,7 +12,7 @@
 #### 4. Model Selection & Evaluation
 
     - simple linear regression* 
-    - multiple linear regression with penalization* 
+    - multiple linear regression with penalization 
     - tree based methods*
 
 #### Conclusion:
