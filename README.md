@@ -7,7 +7,8 @@
 
 ### Workflow:
 #### 1. EDA
-    - 
+    - uncover actionable insight for preprocessing, feature engineering and model selection
+    - (seaborn, plotly express)
 #### 2. Data Preprocessing & Cleaning Pipeline
     - join various 4 datasets and output processes data in modular pipeline (via Google GCP) 
 #### 3. Feature Engineering
@@ -15,7 +16,7 @@
 #### 4. Model Selection & Evaluation
     - simple linear regression* 
     - multiple linear regression with penalization 
-    - tree based methods*
+    - tree based methods
 
 ### Conclusion & Next Steps:
 
