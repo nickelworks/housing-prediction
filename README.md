@@ -10,9 +10,9 @@
 2. Data Preprocessing & Cleaning
 3. Feature Engineering 
 4. Model Selection & Evaluation
-- simple linear regression 
-- multiple linear regression with penalization 
-- tree based methods 
+  - simple linear regression 
+  - multiple linear regression with penalization 
+  - tree based methods 
 
 #### Conclusion:
 
