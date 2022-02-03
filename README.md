@@ -1,8 +1,9 @@
 
-Introduction:
-- Defining Problem and Business Objective: train machine learning model to predict housing prices based on historical transactions, and demographic/economic data. 
+## Introduction:
+- **Business Objective**: train machine learning model to predict housing prices based on historical transactions, and demographic/economic data. 
 
-- Understanding Data Sources 
+- Data Sources: 
+-  
 
 Workflow:
 1. EDA 
