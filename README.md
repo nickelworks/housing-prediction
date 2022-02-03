@@ -2,7 +2,7 @@
 #### Introduction:
 - **Business Objective**: train machine learning model to predict housing prices based on historical transactions, and demographic/economic data. 
 
-- Data Sources: 
+- **Data Sources**: Ames Housing Price dataset, Ames Real Estate dataset, Google maps API, school district data scraped via selennium
 -  
 
 #### Workflow:
