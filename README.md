@@ -8,6 +8,10 @@
 ### Workflow:
 #### 1. EDA
 #### 2. Data Preprocessing & Cleaning
+    - simple linear regression* 
+    - multiple linear regression with penalization 
+    - tree based methods*
+    
 #### 3. Feature Engineering 
 #### 4. Model Selection & Evaluation
 
