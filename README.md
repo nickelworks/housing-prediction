@@ -7,14 +7,11 @@
 
 ### Workflow:
 #### 1. EDA
-#### 2. Data Preprocessing & Cleaning
+#### 2. Data Preprocessing & Pipeline
+    - join various 4 datasets and output processes data in modular pipeline (via Google GCP) 
+#### 3. Feature Engineering
     - join various datasets and output processes data in modular way (via Google GCP) 
-    - multiple linear regression with penalization 
-    - tree based methods*
-    
-#### 3. Feature Engineering 
 #### 4. Model Selection & Evaluation
-
     - simple linear regression* 
     - multiple linear regression with penalization 
     - tree based methods*
